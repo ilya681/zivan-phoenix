@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://ilya681.github.io/zivan-phoenix/sitemap.xml
