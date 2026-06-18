@@ -67,6 +67,7 @@ Zivan-Phoenix/
 │
 ├── img/
 │   └── Product.png
+│   └── information.png
 │
 ├── index.html
 │
@@ -134,10 +135,6 @@ Designed for:
 **Ilya**
 
 Frontend Developer
-
-GitHub
-
-https://github.com/Ilya681
 
 ---
 
